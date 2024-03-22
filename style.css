@@ -86,7 +86,7 @@ a:hover {
 /* Scrolling Text Animation */
 .scroll-text {
   position: fixed;
-  bottom: 50;
+  bottom: 10;
   left: 50%;
   transform: translateX(-50%);
   color: white; /* Initial text color */
